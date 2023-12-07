@@ -20,3 +20,5 @@ https://luciddreamer-cvlab.github.io
 ## Output
 
 https://github.com/camenduru/LucidDreamer-Gaussian-colab/assets/54370274/62189b1e-1534-4cd6-96a3-32def37fe240
+
+https://github.com/camenduru/LucidDreamer-Gaussian-colab/assets/54370274/272e34b7-e211-4646-bf3a-bb1622ff7eb3
